@@ -5,8 +5,8 @@
 
 <div align="center">
   <a href="https://github.com/AMANDALACER">
-  <img height="135em" src="https://github-readme-stats.vercel.app/api?username=AMANDALACER&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMANDALACER&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="131em" src="https://github-readme-stats.vercel.app/api?username=AMANDALACER&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="131em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMANDALACER&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   <div style="display: inline_block"><br>
