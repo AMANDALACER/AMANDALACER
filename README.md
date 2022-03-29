@@ -1,7 +1,7 @@
 ### Olá, eu sou a Amanda Lacerda 👋
 
 - 🌴 Sou de Fortaleza/Ce ...
-- 💻 Curso Análise de Desenvolvimento de Sistemas.
+- 💻 Cursando Análise de Desenvolvimento de Sistemas.
 
 <div align="center">
   <a href="https://github.com/AMANDALACER">
