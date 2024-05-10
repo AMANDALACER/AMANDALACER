@@ -25,7 +25,7 @@
 </div>
   
 
-![Snake animation](https://github.com/AMANDALACER/AMANDALACER/blob/output/github-contribution-grid-snake.svg) 
+
   
  
 
